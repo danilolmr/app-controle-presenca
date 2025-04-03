@@ -47,9 +47,13 @@ app-controle-presenca/
 ```
 
 ## 🎥 Demonstração do App  
-- [📹 Cadastro e Tela Principal](https://drive.google.com/file/d/1yRflBjRcPU-Ftn-o1apxEQIJGcY1TC8U/view?usp=sharing)
-  
-- [📹 Acesso Admin e Validação do QR Code](https://drive.google.com/file/d/1s0_f1uc8SMwLVnKvQlKHHe1SefDL2c9E/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1yRflBjRcPU-Ftn-o1apxEQIJGcY1TC8U/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/🎥%20Cadastro%20e%20Tela%20Principal-blue?style=for-the-badge&logo=google-drive&logoColor=white" style="border-radius:10px;">
+</a>
+
+<a href="https://drive.google.com/file/d/1s0_f1uc8SMwLVnKvQlKHHe1SefDL2c9E/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/🎥%20Acesso%20Admin%20e%20Validação%20do%20QR%20Code-blue?style=for-the-badge&logo=google-drive&logoColor=white" style="border-radius:10px;">
+</a>
 
 ## 📄 Licença
-Este projeto é de código aberto e está sob a licença MIT.
+Este projeto está licenciado sob os termos da **MIT License**. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
